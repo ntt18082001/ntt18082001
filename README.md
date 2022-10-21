@@ -8,6 +8,8 @@
 <!-- https://simpleicons.org/ -->
 
 <span><img src="https://img.shields.io/badge/.NET-282C34?logo=.net&logoColor=521BD4" alt=".NET logo" title=".NET" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C%20Sharp-282C34?logo=.net&logoColor=239120" alt="C Sharp logo" title="C Sharp" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C++-282C34?logo=.net&logoColor=00599C" alt="C++ logo" title="C++" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
@@ -45,7 +47,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Visual%20Studio-282C34?logo=visual-studio-code&logoColor=#5C2D91" alt="Visual Studio logo" title="Visual Studio" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Visual%20Studio-282C34?logo=visual-studio-code&logoColor=5C2D91" alt="Visual Studio logo" title="Visual Studio" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
